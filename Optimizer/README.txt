@@ -1,0 +1,1 @@
+Uso de CBC, lease las instrucciones y respetese la licencia publicada en https://github.com/coin-or/Cbc
